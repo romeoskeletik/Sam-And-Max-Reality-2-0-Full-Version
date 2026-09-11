@@ -241,3 +241,6 @@ This repository serves as the official landing page for Sam & Max: Reality 2.0. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sam & Max: Reality 2.0 today!**
+
+---
+**Last updated:** 2026-09-11 22:03:50 UTC
